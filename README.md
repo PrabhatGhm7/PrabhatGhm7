@@ -1,9 +1,9 @@
-[![MasterHead]([![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io))
+[![MasterHead]([![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Prabhat Ghimire</h1>
 <h3 align="center">Engineer to be !!</h3>
 
 - 🌱 I’m currently learning **Python**
-img align="right" alt="Coding" width="400" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/25870705/7603fe64d493c2160f214ed87fdf8d216c6df05f.gif"
+img align="right" alt="Coding" width="400" src=("https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/25870705/7603fe64d493c2160f214ed87fdf8d216c6df05f.gif")
 
 - 📫 How to reach me **prabhatghimire7@gmail.com**
 
