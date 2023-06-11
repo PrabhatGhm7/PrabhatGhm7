@@ -3,13 +3,12 @@
 <h3 align="center">Engineer to be !!</h3>
 
 - 🌱 I’m currently learning **Python**
-img align="right" alt="Coding" width="400" src=("[](https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/25870705/7603fe64d493c2160f214ed87fdf8d216c6df05f.gif)")
+<img align="right" alt="Coding" width="400" src=("https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/25870705/7603fe64d493c2160f214ed87fdf8d216c6df05f.gif")>
 
 - 📫 How to reach me **prabhatghimire7@gmail.com**
 
 - ⚡ Fun fact **Real Madrid is greatest club.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
