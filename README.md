@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **prabhatghimire7@gmail.com**
 
-- ⚡ Fun fact **Real Madrid is greatest club.**
+- ⚡ Fun fact **Real Madrid is the greatest club in the world.**
 
 <p align="left">
 </p>
