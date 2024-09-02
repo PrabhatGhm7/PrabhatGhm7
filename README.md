@@ -12,7 +12,8 @@
 
 - ⚡ **Así, así, así gana el Madrid! HalaMadrid**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">"The journey to brilliance is not marked by swift strides, but by the quiet persistence of one who walks steadily"
+</h3>
 <p align="left">
 </p>
 
