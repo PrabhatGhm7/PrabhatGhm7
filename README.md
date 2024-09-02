@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/25870705/7603fe64d493c2160f214ed87fdf8d216c6df05f.gif">
 
-- 👨‍💻 All of my projects are available at ([https://prabhat-github-io.vercel.app/])
+- 👨‍💻 More about me at ([https://prabhat-github-io.vercel.app/])
 
 - 📫 How to reach me **prabhatghimire7@gmail.com**
 
